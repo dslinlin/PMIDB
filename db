@@ -1,0 +1,18 @@
+\documentclass{article}
+\userpackage{graphicx}
+\begin{document}
+
+\title{Introduction to \LaTeX{}}
+\author{The Prof}
+
+\maketitle
+\begin{abstract}
+This is the Document for my Project Information Management Database
+\end {abstract}
+
+\section{Introduction}
+This is the architecral Blueprint for my PIM DB.
+\subsection{JS objects used in this application}
+\section{on}
+
+\end{document}
